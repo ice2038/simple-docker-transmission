@@ -1,4 +1,4 @@
-# ice2038/simple-docker-transmission
+# ice2038/simple-docker-transmission [![Build Status](https://travis-ci.org/ice2038/simple-docker-transmission.svg?branch=master)](https://travis-ci.org/ice2038/simple-docker-transmission)
 
 Dockerized Lightweight BitTorrent client (daemon and webinterface). [Transmission](http://www.transmissionbt.com/about/)
 
