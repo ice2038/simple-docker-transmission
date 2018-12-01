@@ -2,4 +2,4 @@ install:
   - docker --version
 
 script:
-  - docker build --rm -t simple-docker-transmission:latest simple-docker-transmission
+  - docker build --rm -t simple-docker-transmission:latest .
